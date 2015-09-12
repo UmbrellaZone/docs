@@ -1,0 +1,10 @@
+site_name: umbrella.zone Docs
+site_description: umbrella.zone Documentation
+copyright: Smart Coordination GmbH 2015
+pages:
+- Home: 'index.md'
+- Project Docs:
+    - 'umbrella.zone - legaldocs': 'legaldocs/getstarted.md'
+    - 'umbrella.zone - gulp-umbrella': 'gulp-umbrella/getstarted.md'
+- Imprint/Impressum: 'imprint.md'
+theme: readthedocs
