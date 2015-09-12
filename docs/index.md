@@ -1,18 +1,15 @@
-# mojo.io Docs
+# umbrella.zone Docs
 
-To download mojo.io or to purchase a license go to [mojo.io](https://mojo.io).
+To download umbrella.zone projects or to contact the devs visit [https://umbrella.zone](https://umbrella.zone).
 
-## What is mojo.io?
-mojo.io is a preprocessing framework that speeds up website development.
+## What is umbrella.zone?
+umbrella.zone ist a project aimed at easifying the legal side of creating and maintaining websites.
 
 ## Get started:
 Read the Get Started Articles:
 
-## Report an issue:
-Use the [issue page](https://github.com/mojoio/mojoio/issues) of the official mojo.io repo at GitHub.
-
 ## License information
-For detailed license information see the license.md file at the [root of the official mojo.io repo](https://github.com/mojoio/mojoio/) at GitHub. It should be a common MIT license there.
+Most of our projects are published with a MIT license.
 
 ## Imprint/Impressum:
 
