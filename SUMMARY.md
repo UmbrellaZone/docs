@@ -2,4 +2,4 @@
 
 * [Start](index.md)
 * [Imprint](imprint.md)
-* [Legal Docs](docs/legaldocs)
+* [Legal Docs](docs/legaldocs.md)
